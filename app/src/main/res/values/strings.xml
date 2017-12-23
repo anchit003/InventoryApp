@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dummy">Add Dummy data</string>
+    <string name="Delete">Delete</string>
+    <string name="name">Description</string>
+    <string name="desc">Enter the details of product</string>
+    <string name="quantity">Enter Quantity</string>
+    <string name="sname">Supplier</string>
+    <string name="snamee">Enter Name</string>
+    <string name="price">Price(In rupees)</string>
+    <string name="email">Enter Email Id</string>
+    <string name="ph">Enter Mobile Number</string>
+    <string name="editor_insert_pet_successful">Pet saved</string>
+    <string name="editor_insert_pet_failed">Error with saving pet</string>
+    <string name="rs">Rs.</string>
+    <string name="quantityy">Available Quantity :</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding an item</string>
+    <string name="editor_update_Item_successful">Item updated</string>
+    <string name="editor_update_Item_failed">Error with updating Item</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_item_successful">Item deleted</string>
+    <string name="editor_delete_item_failed">Error with deleting item</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="pricee">Enter Amount</string>
+</resources>
